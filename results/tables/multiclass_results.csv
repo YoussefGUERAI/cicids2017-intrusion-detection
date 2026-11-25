@@ -1,0 +1,5 @@
+model,representation,macro_f1,training_rows,validation_rows,fit_seconds,termination_reason,boosting_rounds,fitted_trees
+Random forest,without_port,0.8085167168505376,20000,10000,45.786551433004206,requested_tree_count,,100
+XGBoost,without_port,0.8134085121929345,20000,10000,3.838329246005742,round_cap,100.0,1200
+Random forest,with_port,0.8118131216064212,20000,10000,54.96519768500002,requested_tree_count,,100
+XGBoost,with_port,0.8329615520896326,20000,10000,197.58119497400185,round_cap,100.0,1200

@@ -1,0 +1,5 @@
+model,fresh_fit_proxy_seconds,proxy_training_rows,proxy_stop_reason,proxy_fitted_trees,selected_fitted_trees,prediction_rows,prediction_median_seconds,selected_serialized_bytes_compress3,full_training_fit_seconds
+Decision tree,0.10416486400208669,2000,selected_settings_completed,1,1,1000,0.0006322180051938631,76397,
+Random forest,2.8594224019980174,2000,selected_settings_completed,100,100,1000,0.03473342999495799,4346469,
+Gradient boosting,8.31893367000157,2000,selected_settings_completed,244,244,1000,0.007049519997963216,144903,
+XGBoost,35.570241681998596,2000,round_cap,100,100,1000,0.004450519001693465,23335,
